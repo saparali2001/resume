@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.dosca{
+    width: 500px;
+    height: 500px;
+    background: green;
+    margin: 20px auto;
+    margin-bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+    border: 50px solid rgb(255, 111, 0); 
+}
+
+.zmeika{
+    width: 30px;
+    height: 30px;
+    background: red;
+    border-radius: 10px;
+    
+    
+}
+
+.box{
+    width: 25px;
+    height: 25px;
+    
+  
+}
+
+.foods{
+    width: 25px;
+    height: 25px;
+    background: #000;
+    border-radius: 20px;
+    z-index: 9;
+}
+
+/* img.rot {
+    animation: 1s linear 0s normal none infinite running rot;
+    -webkit-animation: 1s linear 0s normal none infinite running rot;
+    width: 30px;
+    border-radius: 50px;
+    background: transparent;
+  }
+  @keyframes rot {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  @-webkit-keyframes rot {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  } */
+
+
+  .ochka {
+      display: flex;
+      position: absolute;
+      font-size: 40px;
+      top: 20px;
+      left: 350px;
+      background: transparent;
+  }
+
+  p{
+      background: transparent;
+  }
+
+  
+
+
